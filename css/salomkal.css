@@ -1,0 +1,40 @@
+.four_box {
+  display: flex;
+  background: #1A2231;
+  padding: 80px 0 80px;
+}
+.four_box .four_box_box_1 {
+  padding: 18px 78px 24px 78px;
+  width: 312px;
+  height: 197px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: #0E1420;
+}
+.four_box .four_box_box_1_card {
+  margin-left: 45px;
+}
+.four_box .four_box_box_1_text {
+  margin-top: 6px;
+  color: #E2E7EE;
+  text-align: center;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.four_box .four_box_box_1_title {
+  margin-top: 15px;
+  color: #A9B3C0;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.four_box .img__position {
+  transform: rotate(-45px);
+  position: absolute;
+  top: 195px;
+  right: 1790px;
+}/*# sourceMappingURL=salomkal.css.map */
